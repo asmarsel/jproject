@@ -1,0 +1,6 @@
+#Default ingnore files
+/workspace.xml
+.idea/
+out/
+*.iml
+out
